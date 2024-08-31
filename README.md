@@ -1,0 +1,1 @@
+# mood-booster-chrome-extension
